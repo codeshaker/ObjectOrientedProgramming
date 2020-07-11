@@ -1,0 +1,11 @@
+D:\GIT\ObjectOrientedProgramming\src\myapp\bin\Debug\netcoreapp2.1\myapp.deps.json
+D:\GIT\ObjectOrientedProgramming\src\myapp\bin\Debug\netcoreapp2.1\myapp.runtimeconfig.json
+D:\GIT\ObjectOrientedProgramming\src\myapp\bin\Debug\netcoreapp2.1\myapp.runtimeconfig.dev.json
+D:\GIT\ObjectOrientedProgramming\src\myapp\bin\Debug\netcoreapp2.1\myapp.dll
+D:\GIT\ObjectOrientedProgramming\src\myapp\bin\Debug\netcoreapp2.1\myapp.pdb
+D:\GIT\ObjectOrientedProgramming\src\myapp\obj\Debug\netcoreapp2.1\myapp.csprojAssemblyReference.cache
+D:\GIT\ObjectOrientedProgramming\src\myapp\obj\Debug\netcoreapp2.1\myapp.csproj.CoreCompileInputs.cache
+D:\GIT\ObjectOrientedProgramming\src\myapp\obj\Debug\netcoreapp2.1\myapp.AssemblyInfoInputs.cache
+D:\GIT\ObjectOrientedProgramming\src\myapp\obj\Debug\netcoreapp2.1\myapp.AssemblyInfo.cs
+D:\GIT\ObjectOrientedProgramming\src\myapp\obj\Debug\netcoreapp2.1\myapp.dll
+D:\GIT\ObjectOrientedProgramming\src\myapp\obj\Debug\netcoreapp2.1\myapp.pdb
