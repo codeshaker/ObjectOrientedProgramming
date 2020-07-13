@@ -108,15 +108,10 @@ namespace SnakeGame
             return head;
         }
 
-        public void grow()
+        public void grow(Cell nextCell)
         {
-            snakePartList.Add(head);
-        }
-
-        public void move(int direction)
-        {
-            int row = head.getRow();
-            int col = head.getCol();
+            snakePartList.Add(nextCell);
+            head = nextCell;
         }
 
         public bool checkForCrash(Cell nextCell)
@@ -168,13 +163,16 @@ namespace SnakeGame
                     }
                     else
                     {
-                        snake.move(nextCell);
-
                         if (nextCell.getCellType() == CellType.FOOD)
                         {
-                            snake.grow();
+                            snake.grow(nextCell);
                             board.generateFood();
                         }
+                        else
+                        {
+                            snake.move(nextCell);
+                        }
+
                         nextCell.setCellType(CellType.SNAKEBODY);
                     }
                 }
