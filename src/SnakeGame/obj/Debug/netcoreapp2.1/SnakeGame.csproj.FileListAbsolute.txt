@@ -1,0 +1,11 @@
+D:\GIT\ObjectOrientedProgramming\src\SnakeGame\obj\Debug\netcoreapp2.1\SnakeGame.csprojAssemblyReference.cache
+D:\GIT\ObjectOrientedProgramming\src\SnakeGame\obj\Debug\netcoreapp2.1\SnakeGame.csproj.CoreCompileInputs.cache
+D:\GIT\ObjectOrientedProgramming\src\SnakeGame\obj\Debug\netcoreapp2.1\SnakeGame.AssemblyInfoInputs.cache
+D:\GIT\ObjectOrientedProgramming\src\SnakeGame\obj\Debug\netcoreapp2.1\SnakeGame.AssemblyInfo.cs
+D:\GIT\ObjectOrientedProgramming\src\SnakeGame\bin\Debug\netcoreapp2.1\SnakeGame.deps.json
+D:\GIT\ObjectOrientedProgramming\src\SnakeGame\bin\Debug\netcoreapp2.1\SnakeGame.runtimeconfig.json
+D:\GIT\ObjectOrientedProgramming\src\SnakeGame\bin\Debug\netcoreapp2.1\SnakeGame.runtimeconfig.dev.json
+D:\GIT\ObjectOrientedProgramming\src\SnakeGame\bin\Debug\netcoreapp2.1\SnakeGame.dll
+D:\GIT\ObjectOrientedProgramming\src\SnakeGame\bin\Debug\netcoreapp2.1\SnakeGame.pdb
+D:\GIT\ObjectOrientedProgramming\src\SnakeGame\obj\Debug\netcoreapp2.1\SnakeGame.dll
+D:\GIT\ObjectOrientedProgramming\src\SnakeGame\obj\Debug\netcoreapp2.1\SnakeGame.pdb

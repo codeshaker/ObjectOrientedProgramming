@@ -1,0 +1,5 @@
+1. Game with 8*8 board and cell are either empty or have food
+2. At Start Snake of length 1 can move in all 4 direction.
+3. On Eating cell's food snake length increase by 1 unit.
+4. Game over if snake head collides against boundary or to its body part.
+5. Food generated at regular intervals.
