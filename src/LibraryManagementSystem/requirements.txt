@@ -1,0 +1,6 @@
+1. Persons - LIBRARIAN, MEMBER (ACCOUNT , LC) - max 5 books checkout , max no of days to keep book
+2. BOOK - title, name, genre, author, unique id. Individual will have BOOK ITEM - status, issueddate ,return date.
+3. Late submission - FINE, TRANSACTION
+4. LIBRARY - having books, CATALOG (interface to search using name, author, genere)
+5. NOTIFICATION - if books available and return date approaching.
+6. BOOK RESERVATION and BOOK LENDING.
