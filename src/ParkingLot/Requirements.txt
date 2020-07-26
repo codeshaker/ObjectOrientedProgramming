@@ -1,0 +1,10 @@
+1. PARKING LOT has many PARKING FLOORS each different PARKINGSPOTS type - LARGE, COMPACT, MOTORCYCLE , HANDICAPPED, ELECTRICAL.
+3. Different VEHICLES - CAR, TRUCK, BIKE.
+4. PARKINGDISPLAYBOARD - each floor which parking spots type is currently free.
+5. PAYMENT - handle transactions
+6. PARKING TICKET.
+7. PARKING ATTENDEE
+8. PARKINGRATE.
+9. ENTRACEPANEL - print ticket.
+10. EXITPANEL - process payment
+11. ACCOUNT - one for ADMMIN and other for PARKINGATTENDENT.
